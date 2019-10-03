@@ -1,0 +1,228 @@
+City,Neighborhood,Month,Sale Price,Homes Sold,New Listings,Days on Market
+"Chicago, IL ", Albany Park,Aug-19,$295K,113,133,54
+"Chicago, IL ", Andersonville,Aug-19,$419K,94,79,50
+"Chicago, IL ", Archer Heights,Aug-19,$226K,20,31,26
+"Chicago, IL ", Archer Highlands,Aug-19,$210K,3,5,21
+"Chicago, IL ", Armour Square,Aug-19,$265K,7,20,58
+"Chicago, IL ", Ashburn,Aug-19,$199K,100,137,53
+"Chicago, IL ", Ashburn Estates,Aug-19,$222K,4,14,50
+"Chicago, IL ", Auburn Gresham,Aug-19,$165K,131,190,65
+"Chicago, IL ", Austin,Aug-19,$206K,202,277,53
+"Chicago, IL ", Avalon Park,Aug-19,$167K,38,59,69
+"Chicago, IL ", Avondale,Aug-19,$443K,112,121,49
+"Chicago, IL ", Back of the Yards,Aug-19,$115K,73,123,53
+"Chicago, IL ", Belmont Gardens,Aug-19,$327K,8,36,40
+"Chicago, IL ", Belmont Heights,Aug-19,$255K,67,60,56
+"Chicago, IL ", Belmont Terrace,Aug-19,$267K,14,16,51
+"Chicago, IL ", Beverly,Aug-19,$317K,85,98,57
+"Chicago, IL ", Big Oaks,Aug-19,$315K,23,31,41
+"Chicago, IL ", Bowmanville,Aug-19,$550K,11,14,81
+"Chicago, IL ", Boystown,Aug-19,$405K,20,33,64
+"Chicago, IL ", Brainerd,Aug-19,$180K,45,51,75
+"Chicago, IL ", Brickyard,Aug-19,$205K,8,8,61
+"Chicago, IL ", Bridgeport,Aug-19,$420K,87,118,67
+"Chicago, IL ", Brighton Park,Aug-19,$224K,53,68,54
+"Chicago, IL ", Bronzeville,Aug-19,$241K,138,196,67
+"Chicago, IL ", Bryn Mawr Historic District,Aug-19,$254K,15,17,58
+"Chicago, IL ", Bucktown,Aug-19,$590K,103,112,57
+"Chicago, IL ", Budlong Woods,Aug-19,$205K,29,51,60
+"Chicago, IL ", Buena Park,Aug-19,$266K,75,84,49
+"Chicago, IL ", Burnside,Aug-19,$110K,10,15,63
+"Chicago, IL ", Cabrini,Aug-19,$383K,13,12,65
+"Chicago, IL ", California Park,Aug-19,$330K,57,77,64
+"Chicago, IL ", Calumet Heights,Aug-19,$141K,42,58,58
+"Chicago, IL ", Canaryville,Aug-19,$279K,12,16,113
+"Chicago, IL ", Carl Sandburg Village,Aug-19,$231K,57,49,57
+"Chicago, IL ", Central Chicago,Aug-19,$390K,"1,486","1,808",72
+"Chicago, IL ", Central Station,Aug-19,$442K,76,81,69
+"Chicago, IL ", Chatham,Aug-19,$148K,85,110,71
+"Chicago, IL ", Chicago Lawn,Aug-19,$178K,95,133,42
+"Chicago, IL ", Chinatown,Aug-19,$263K,4,10,121
+"Chicago, IL ", Chrysler Village,Aug-19,$174K,6,12,15
+"Chicago, IL ", Clearing,Aug-19,$245K,97,117,59
+"Chicago, IL ", Cottage Grove Heights,Aug-19,$148K,8,13,55
+"Chicago, IL ", Cragin,Aug-19,$295K,63,84,62
+"Chicago, IL ", DePaul,Aug-19,$798K,48,48,78
+"Chicago, IL ", Dearborn Park,Aug-19,$440K,37,37,76
+"Chicago, IL ", Douglas,Aug-19,$199K,39,67,55
+"Chicago, IL ", Dunning,Aug-19,$269K,192,204,54
+"Chicago, IL ", East Beverly,Aug-19,$287K,12,17,75
+"Chicago, IL ", East Chatham,Aug-19,$275K,5,20,57
+"Chicago, IL ", East Garfield Park,Aug-19,$210K,39,60,53
+"Chicago, IL ", East Humboldt Park,Aug-19,$421K,74,81,63
+"Chicago, IL ", East Rogers Park,Aug-19,$175K,165,198,56
+"Chicago, IL ", East Side,Aug-19,$133K,45,53,61
+"Chicago, IL ", East Ukrainian Village,Aug-19,$555K,124,100,76
+"Chicago, IL ", East Village,Aug-19,$560K,93,73,77
+"Chicago, IL ", Edgebrook,Aug-19,$535K,31,23,66
+"Chicago, IL ", Edgewater,Aug-19,$240K,278,293,58
+"Chicago, IL ", Edgewater Beach,Aug-19,$173K,146,164,60
+"Chicago, IL ", Edgewater Glen,Aug-19,$642K,8,10,25
+"Chicago, IL ", Edison Park,Aug-19,$334K,60,66,63
+"Chicago, IL ", Englewood,Aug-19,$68K,40,87,58
+"Chicago, IL ", Far North Side,Aug-19,$297K,"1,745","1,874",57
+"Chicago, IL ", Far Southeast Side,Aug-19,$127K,540,793,70
+"Chicago, IL ", Far Southwest Side,Aug-19,$199K,546,753,57
+"Chicago, IL ", Fernwood,Aug-19,$140K,29,44,82
+"Chicago, IL ", Fuller Park,Aug-19,$90K,8,18,46
+"Chicago, IL ", Fulton Market,Aug-19,$438K,12,17,56
+"Chicago, IL ", Fulton River District,Aug-19,$402K,59,61,57
+"Chicago, IL ", Gage Park,Aug-19,$193K,35,69,47
+"Chicago, IL ", Galewood,Aug-19,$225K,39,50,50
+"Chicago, IL ", Garfield Ridge,Aug-19,$249K,125,165,50
+"Chicago, IL ", Gladstone Park,Aug-19,$299K,12,9,74
+"Chicago, IL ", Gold Coast,Aug-19,$407K,92,164,83
+"Chicago, IL ", Golden Ghetto,Aug-19,$161K,35,47,62
+"Chicago, IL ", Goose Island,Aug-19,$433K,23,29,71
+"Chicago, IL ", Graceland West,Aug-19,$333K,23,16,75
+"Chicago, IL ", Grand Boulevard,Aug-19,$246K,96,126,79
+"Chicago, IL ", Grand Crossing,Aug-19,$142K,28,44,71
+"Chicago, IL ", Greater Grand Crossing,Aug-19,$133K,64,104,94
+"Chicago, IL ", Greektown,Aug-19,$400K,6,6,55
+"Chicago, IL ", Hamlin Park,Aug-19,$510K,53,59,67
+"Chicago, IL ", Heart of Chicago,Aug-19,$375K,38,32,43
+"Chicago, IL ", Hegewisch,Aug-19,$148K,35,36,74
+"Chicago, IL ", Hermosa,Aug-19,$300K,28,47,69
+"Chicago, IL ", Hollywood Park,Aug-19,$438K,13,12,51
+"Chicago, IL ", Homan Square,Aug-19,$143K,2,11,54
+"Chicago, IL ", Horner Park,Aug-19,$512K,30,26,66
+"Chicago, IL ", Humboldt Park,Aug-19,$370K,211,277,57
+"Chicago, IL ", Hyde Park,Aug-19,$216K,121,122,55
+"Chicago, IL ", Hyde Park Kenwood Historic District,Aug-19,$265K,119,128,56
+"Chicago, IL ", Irving Park,Aug-19,$347K,212,245,55
+"Chicago, IL ", Irving Woods,Aug-19,$280K,29,27,61
+"Chicago, IL ", Jackowo,Aug-19,$440K,19,23,45
+"Chicago, IL ", Jefferson Park,Aug-19,$327K,119,122,56
+"Chicago, IL ", Jeffrey Manor,Aug-19,$65K,9,17,47
+"Chicago, IL ", K,Aug-19,$150K,8,19,75
+"Chicago, IL ", Kennedy Park,Aug-19,$232K,9,12,52
+"Chicago, IL ", Kenwood,Aug-19,$260K,63,80,66
+"Chicago, IL ", Kilbourn Park,Aug-19,$287K,10,15,57
+"Chicago, IL ", Kosciuszko Park,Aug-19,$500K,22,19,42
+"Chicago, IL ", Lake View,Aug-19,$407K,659,700,62
+"Chicago, IL ", Lake View East,Aug-19,$283K,343,362,64
+"Chicago, IL ", Lathrop,Aug-19,$634K,88,101,67
+"Chicago, IL ", LeClaire Courts,Aug-19,$155K,5,9,54
+"Chicago, IL ", Lincoln Park,Aug-19,$550K,508,538,69
+"Chicago, IL ", Lincoln Square,Aug-19,$400K,167,208,58
+"Chicago, IL ", Little Cassubia,Aug-19,$420K,7,8,70
+"Chicago, IL ", Little Italy,Aug-19,$285K,94,80,59
+"Chicago, IL ", Little Vietnam,Aug-19,$336K,18,14,71
+"Chicago, IL ", Little Village,Aug-19,$180K,48,73,44
+"Chicago, IL ", Logan Square,Aug-19,$435K,267,240,50
+"Chicago, IL ", Longwood Manor,Aug-19,$144K,27,39,48
+"Chicago, IL ", Lower West Side,Aug-19,$405K,63,57,54
+"Chicago, IL ", Loyola,Aug-19,$161K,104,114,57
+"Chicago, IL ", Magnificent Mile,Aug-19,$555K,31,37,116
+"Chicago, IL ", Magnolia Glen,Aug-19,$325K,18,11,64
+"Chicago, IL ", Margate Park,Aug-19,$140K,29,41,54
+"Chicago, IL ", Marquette Park,Aug-19,$184K,71,100,47
+"Chicago, IL ", Marshall Square,Aug-19,$125K,11,9,62
+"Chicago, IL ", Marynook,Aug-19,$191K,14,12,92
+"Chicago, IL ", Mayfair,Aug-19,$350K,31,28,44
+"Chicago, IL ", McKinley Park,Aug-19,$283K,20,37,45
+"Chicago, IL ", Montclare,Aug-19,$275K,38,56,64
+"Chicago, IL ", Morgan Park,Aug-19,$215K,72,120,58
+"Chicago, IL ", Mount Greenwood,Aug-19,$236K,58,71,60
+"Chicago, IL ", Near East Side,Aug-19,$448K,50,88,125
+"Chicago, IL ", Near North Side,Aug-19,$395K,779,938,76
+"Chicago, IL ", Near South Side,Aug-19,$367K,228,247,68
+"Chicago, IL ", New City,Aug-19,$115K,66,105,54
+"Chicago, IL ", New City / Back of the Yards,Aug-19,$104K,54,89,50
+"Chicago, IL ", New East Side,Aug-19,$425K,56,105,120
+"Chicago, IL ", Noble Square,Aug-19,$520K,29,38,90
+"Chicago, IL ", North Austin,Aug-19,$240K,45,66,50
+"Chicago, IL ", North Center,Aug-19,$590K,236,232,63
+"Chicago, IL ", North Kenwood,Aug-19,$305K,21,24,69
+"Chicago, IL ", North Lawndale,Aug-19,$160K,59,81,56
+"Chicago, IL ", North Mayfair,Aug-19,$312K,17,17,55
+"Chicago, IL ", North Park,Aug-19,$400K,54,44,51
+"Chicago, IL ", North Side,Aug-19,$478K,"1,868","1,930",61
+"Chicago, IL ", Northwest Side,Aug-19,$300K,777,950,55
+"Chicago, IL ", Nortown,Aug-19,$160K,7,3,74
+"Chicago, IL ", Norwood Park,Aug-19,$320K,169,181,58
+"Chicago, IL ", Norwood Park East,Aug-19,$358K,52,51,63
+"Chicago, IL ", Norwood Park West,Aug-19,$354K,22,25,43
+"Chicago, IL ", Oakland,Aug-19,$254K,9,16,54
+"Chicago, IL ", Old Hegewisch,Aug-19,$145K,17,17,75
+"Chicago, IL ", Old Irving Park,Aug-19,$383K,54,56,55
+"Chicago, IL ", Old Norwood Park,Aug-19,$370K,10,12,74
+"Chicago, IL ", Old Town,Aug-19,$412K,173,215,70
+"Chicago, IL ", Old Town Triangle,Aug-19,$315K,36,63,48
+"Chicago, IL ", Oriole Park,Aug-19,$281K,27,17,53
+"Chicago, IL ", Palmer Square,Aug-19,$387K,22,19,49
+"Chicago, IL ", Park Manor,Aug-19,$150K,43,69,89
+"Chicago, IL ", Park West,Aug-19,$335K,94,108,68
+"Chicago, IL ", Peterson Park,Aug-19,$405K,10,8,83
+"Chicago, IL ", Pill Hill / Calument Heights,Aug-19,$141K,42,58,58
+"Chicago, IL ", Pilsen,Aug-19,$405K,63,57,54
+"Chicago, IL ", Portage Park,Aug-19,$325K,203,233,52
+"Chicago, IL ", Prairie District,Aug-19,$333K,40,44,63
+"Chicago, IL ", Printer's Row,Aug-19,$259K,20,28,53
+"Chicago, IL ", Pulaski Park,Aug-19,$454K,24,36,70
+"Chicago, IL ", Pullman,Aug-19,$100K,15,34,68
+"Chicago, IL ", Ranch Triangle,Aug-19,$537K,20,34,77
+"Chicago, IL ", Ravenswood,Aug-19,$418K,126,136,57
+"Chicago, IL ", Ravenswood Gardens,Aug-19,$899K,1,7,17
+"Chicago, IL ", Ravenswood Manor,Aug-19,$695K,5,15,81
+"Chicago, IL ", River North,Aug-19,$439K,142,144,69
+"Chicago, IL ", River West,Aug-19,$477K,24,34,56
+"Chicago, IL ", Roscoe Village,Aug-19,$545K,59,71,78
+"Chicago, IL ", Rosehill,Aug-19,$333K,32,26,138
+"Chicago, IL ", Roseland,Aug-19,$109K,104,157,71
+"Chicago, IL ", Rosemoor,Aug-19,$144K,28,39,93
+"Chicago, IL ", Schorsch Forest View,Aug-19,$210K,9,8,70
+"Chicago, IL ", Schorsch Village,Aug-19,$319K,29,42,53
+"Chicago, IL ", Scottsdale,Aug-19,$190K,35,42,45
+"Chicago, IL ", Sheffield,Aug-19,$730K,59,60,75
+"Chicago, IL ", Sheridan Park,Aug-19,$319K,50,43,51
+"Chicago, IL ", Sheridan Station Corridor,Aug-19,$388K,10,8,62
+"Chicago, IL ", South Austin,Aug-19,$186K,106,150,60
+"Chicago, IL ", South Chicago,Aug-19,$79K,62,111,93
+"Chicago, IL ", South Commons,Aug-19,$84K,11,12,24
+"Chicago, IL ", South Deering,Aug-19,$103K,32,33,68
+"Chicago, IL ", South East Ravenswood,Aug-19,$418K,12,12,51
+"Chicago, IL ", South Lawndale / Little Village,Aug-19,$180K,49,74,46
+"Chicago, IL ", South Loop,Aug-19,$355K,327,364,65
+"Chicago, IL ", South Old Irving Park,Aug-19,$375K,12,16,35
+"Chicago, IL ", South Shore,Aug-19,$121K,96,133,73
+"Chicago, IL ", South Side,Aug-19,$220K,663,895,65
+"Chicago, IL ", Southwest Side,Aug-19,$205K,730,"1,073",51
+"Chicago, IL ", St. Ben's,Aug-19,$675K,32,22,60
+"Chicago, IL ", Stony Island Park,Aug-19,$178K,9,23,90
+"Chicago, IL ", Streeterville,Aug-19,$374K,179,223,97
+"Chicago, IL ", The Chicago University,Aug-19,$80K,10,20,22
+"Chicago, IL ", The Gap,Aug-19,$255K,9,22,83
+"Chicago, IL ", The Loop,Aug-19,$352K,243,319,70
+"Chicago, IL ", Tri,Aug-19,$262K,28,33,39
+"Chicago, IL ", Tri,Aug-19,$262K,28,33,39
+"Chicago, IL ", Ukrainian Village,Aug-19,$603K,62,67,69
+"Chicago, IL ", Union Ridge,Aug-19,$283K,30,34,65
+"Chicago, IL ", Uptown,Aug-19,$290K,281,265,53
+"Chicago, IL ", Vittum Park,Aug-19,$225K,17,20,47
+"Chicago, IL ", Waclawowo,Aug-19,$360K,13,14,53
+"Chicago, IL ", Washington Heights,Aug-19,$170K,100,137,57
+"Chicago, IL ", Washington Park,Aug-19,$138K,18,13,58
+"Chicago, IL ", West Beverly,Aug-19,$266K,20,15,51
+"Chicago, IL ", West Chatham,Aug-19,$135K,7,9,88
+"Chicago, IL ", West Chesterfield,Aug-19,$180K,13,19,76
+"Chicago, IL ", West DePaul,Aug-19,$610K,11,12,71
+"Chicago, IL ", West Elsdon,Aug-19,$226K,40,47,53
+"Chicago, IL ", West Englewood,Aug-19,$54K,64,106,44
+"Chicago, IL ", West Garfield Park,Aug-19,$135K,33,51,60
+"Chicago, IL ", West Humboldt Park,Aug-19,$221K,16,26,79
+"Chicago, IL ", West Lake View,Aug-19,$468K,44,47,52
+"Chicago, IL ", West Lawn,Aug-19,$221K,75,108,52
+"Chicago, IL ", West Pullman,Aug-19,$90K,68,120,66
+"Chicago, IL ", West Ridge,Aug-19,$246K,208,235,64
+"Chicago, IL ", West Rogers Park,Aug-19,$280K,144,162,65
+"Chicago, IL ", West Side,Aug-19,$361K,"1,549","1,804",62
+"Chicago, IL ", West Town,Aug-19,$515K,588,629,66
+"Chicago, IL ", West Walker,Aug-19,$432K,21,9,77
+"Chicago, IL ", West Woodlawn,Aug-19,$145K,20,32,55
+"Chicago, IL ", Wicker Park,Aug-19,$545K,139,153,59
+"Chicago, IL ", Wildwood,Aug-19,$470K,15,19,88
+"Chicago, IL ", Woodlawn,Aug-19,$199K,55,78,58
+"Chicago, IL ", Woodlawn Ridge,Aug-19,$281K,6,12,45
+"Chicago, IL ", Wrightwood,Aug-19,$397K,107,102,122
+"Chicago, IL ", Wrigleyville,Aug-19,$456K,22,34,65
